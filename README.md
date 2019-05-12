@@ -8,8 +8,8 @@ Y. Huang, M. Cai, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, "Temporal local
 We provide code for reagion feature extraction based on selective search.
 
 For example 
-``from feature_extraction import selective_search
+```from feature_extraction import selective_search
 import cv2
 img = cv2.imread('path/to/image')
 features = selective_search(img)
-``
+```
