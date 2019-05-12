@@ -10,6 +10,7 @@ We provide code for reagion feature extraction based on selective search.
 For example 
 ```from feature_extraction import selective_search
 import cv2
+from feature_extraction import selective_search
 img = cv2.imread('path/to/image')
 features = selective_search(img)
 ```
