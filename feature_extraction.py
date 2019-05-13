@@ -13,7 +13,7 @@ import numpy, math
 
 # "Selective Search for Object Recognition" by J.R.R. Uijlings et al.
 #
-#  - Modified version with LBP extractor for texture vectorization
+#  Modified from https://github.com/AlpacaDB/selectivesearch
 #  For feature extraction for the joint attention paper :
 #  "Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Videos"
 
